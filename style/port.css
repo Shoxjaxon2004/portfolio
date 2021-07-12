@@ -1,0 +1,44 @@
+.port {
+    padding-top: 112px;
+    background: #F6F6F6;
+    text-align: center;
+    padding-bottom: 96px;
+}
+
+.port__head h1 {
+    font-family: Gilroy;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    padding-bottom: 47px;
+}
+
+.port__head img {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 44px;
+    margin-top: 99px;
+    transition: all .2s ease-out;
+    transform-origin: left;
+}
+
+.port__head img:hover{
+    transform: rotateY(10deg);
+    cursor: pointer;
+}
+
+.port__head a {
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000;
+}
+
+.port__head a:hover {
+    text-decoration-line: none;
+}
+

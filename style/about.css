@@ -1,0 +1,23 @@
+.about{
+	padding-top: 120px;
+	padding-bottom: 107px;
+	background: #F6F6F6;
+	text-align: center;
+}
+
+.about__elements h1{
+	font-family: Gilroy;
+	font-size: 34px;
+	line-height: 42px;
+	color: #070707;
+	padding-bottom: 17px;
+}
+
+.about__elements p{
+	font-family: Gilroy;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #070707;
+	padding-bottom: 40px;
+}
